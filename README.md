@@ -41,15 +41,6 @@
 
 
 <!--About Me-->
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
-
-
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
-</p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
@@ -128,7 +119,7 @@ print(me.getFutureGoal()) // Output: To contribute to open source.
         <img src="https://media.giphy.com/media/TlK63Er5sVKVBLMQVMY/giphy.gif" width="50px">
       </h3>
       
-    </p>
+   
    </div>
 
   
@@ -246,6 +237,15 @@ print(me.getFutureGoal()) // Output: To contribute to open source.
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shashika-Theekshana=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shashika-Theekshana=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?usernameShashika-Theekshana=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
@@ -259,16 +259,6 @@ print(me.getFutureGoal()) // Output: To contribute to open source.
 
 
 
-
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/shashika-theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashika-theekshana" height="30" width="40" /></a>
-<a href="https://fb.com/shashikatheekshanavp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashikatheekshanavp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 
 
@@ -287,33 +277,11 @@ print(me.getFutureGoal()) // Output: To contribute to open source.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 
 
-#### I'm an Early 🐤
-```text
-🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
-🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
-🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
-```
 
-#### I Spent My Time On
-```text
-💬 Programming Lanuages:
-HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
-CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
-GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
-
-🔥 Editors:
-VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50% 
-Atom                     1 Hour             ██████████████░░░░░░░░░░░   50%
-
-💻 Operating System:
-Linux Ubuntu             14 hrs 2 mins      █████████████████████████   100.0%
-```
-------
 
 
 <h2 align="center">
